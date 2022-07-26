@@ -1,6 +1,6 @@
 # Car-Price Prediction
 
-This repository consists of files required for end to end implementation and deployment of Machine Learning Car Price Prediction web application created with Flask and deployed on the Heroku platform.
+This repository consists of files required for end to end implementation and deployment of Machine Learning Car Price Prediction web application created with Pycharm using streamlit and deployed on the Heroku platform.
 
 ## Project Link
 https://car-amount.herokuapp.com/
@@ -40,4 +40,4 @@ Some packages are:
 
 - Link for notebook: https://github.com/Vineetkumar99/car_price_prediction/blob/main/Car%20Price%20Predictor.ipynb
 
-- This project was given the form of an website built on Flask where we used the Linear Regression model to perform predictions.
+- This project was given the form of an website built on pycharm using streamlit where we used the Linear Regression model to perform predictions.
